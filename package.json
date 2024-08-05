@@ -1,0 +1,16 @@
+{
+  "name": "audio-segmenter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fastest-levenshtein": "^1.0.16",
+    "with-file-cache": "^3.2.1"
+  }
+}
